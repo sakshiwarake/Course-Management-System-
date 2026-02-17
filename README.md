@@ -1,3 +1,4 @@
+🚀 Course Management API (FastAPI + MongoDB)
 A high-performance RESTful API built using FastAPI and MongoDB to manage course data, chapters, and ratings.
 
 This project demonstrates:
